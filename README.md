@@ -16,18 +16,23 @@ O desenvolvimento do projeto seguiu rigorosamente as seguintes etapas metodológ
 
 ### 1. Guia de Estilo (Design System Inicial)
 Definição e estruturação de variáveis globais de estilo de cores (baseadas na identidade Dark Mode oficial do Spotify) e tipografia para garantir consistência visual em todo o projeto.
-> *Insira aqui o print do seu Guia de Estilos! (Arraste a imagem para este espaço)*
+<img width="1366" height="768" alt="guia-de-estilo" src="https://github.com/user-attachments/assets/e1add949-064c-43c1-9cbc-e4fbc6a68299" />
+
 
 ### 2. Wireframe (Esqueleto da Interface)
 Planejamento estrutural das seções da página utilizando grades de layout (Grid de 12 colunas) e hierarquia de informação antes da aplicação dos elementos visuais definitivos.
-> *Insira aqui o print do seu Wireframe! (Arraste a imagem para este espaço)*
+<img width="1366" height="768" alt="wireframe2" src="https://github.com/user-attachments/assets/b0d616a9-c54f-4f3f-b553-b95e5ad226c1" />
+<img width="1366" height="768" alt="wireframe1" src="https://github.com/user-attachments/assets/2e5ecf79-3aca-412f-8ec3-0ca025e8b941" />
+
 
 ### 3. Auto Layout & Componentização
 Utilização intensiva da ferramenta de Auto Layout do Figma para simular o comportamento de caixas flexíveis, facilitando a futura transição para o código front-end (Flexbox no CSS).
 
 ### 4. Design de Alta Fidelidade (UI Final)
 Aplicação de imagens em alta definição, ícones vetoriais modernos e cores de contraste para gerar uma experiência de usuário imersiva, limpa e extremamente profissional.
-> *Insira aqui o print da sua Landing Page finalizada! (Arraste a imagem para este espaço)*
+
+<img width="1366" height="768" alt="projeto-finalizado1" src="https://github.com/user-attachments/assets/eaa937c5-b346-4c96-8ef6-db6e94c62120" />
+
 
 ---
 
@@ -51,7 +56,7 @@ Para manter o fluxo de trabalho organizado, o arquivo do Figma foi estruturado n
 
 ## 📈 Próximos Passos
 
-Como estudante de Análise e Desenvolvimento de Sistemas (ADS), o objetivo final deste projeto é servir como a minha primeira grande ponte para o desenvolvimento front-end. Os próximos passos práticos incluem:
+Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo final deste projeto é servir como a minha primeira grande ponte para o desenvolvimento front-end. Os próximos passos práticos incluem:
 *   Exportação dos assets visuais do Figma.
 *   Desenvolvimento do código estruturado utilizando HTML5 e CSS3 moderno (Flexbox/Grid).
 *   Adição de interatividade responsiva com JavaScript.
