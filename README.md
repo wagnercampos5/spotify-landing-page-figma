@@ -16,12 +16,15 @@ O desenvolvimento do projeto seguiu rigorosamente as seguintes etapas metodológ
 
 ### 1. Guia de Estilo (Design System Inicial)
 Definição e estruturação de variáveis globais de estilo de cores (baseadas na identidade Dark Mode oficial do Spotify) e tipografia para garantir consistência visual em todo o projeto.
+
 <img width="1366" height="768" alt="guia-de-estilo" src="https://github.com/user-attachments/assets/e1add949-064c-43c1-9cbc-e4fbc6a68299" />
 
 
 ### 2. Wireframe (Esqueleto da Interface)
 Planejamento estrutural das seções da página utilizando grades de layout (Grid de 12 colunas) e hierarquia de informação antes da aplicação dos elementos visuais definitivos.
+
 <img width="1366" height="768" alt="wireframe2" src="https://github.com/user-attachments/assets/b0d616a9-c54f-4f3f-b553-b95e5ad226c1" />
+
 <img width="1366" height="768" alt="wireframe1" src="https://github.com/user-attachments/assets/2e5ecf79-3aca-412f-8ec3-0ca025e8b941" />
 
 
@@ -32,6 +35,8 @@ Utilização intensiva da ferramenta de Auto Layout do Figma para simular o comp
 Aplicação de imagens em alta definição, ícones vetoriais modernos e cores de contraste para gerar uma experiência de usuário imersiva, limpa e extremamente profissional.
 
 <img width="1366" height="768" alt="projeto-finalizado1" src="https://github.com/user-attachments/assets/eaa937c5-b346-4c96-8ef6-db6e94c62120" />
+
+<img width="1366" height="768" alt="projeto-finalizado1" src="https://github.com/user-attachments/assets/4c91f677-0f51-4bdf-9e28-7578e1b7538b" />
 
 
 ---
