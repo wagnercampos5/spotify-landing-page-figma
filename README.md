@@ -15,15 +15,15 @@ O objetivo deste projeto foi aplicar na prática conceitos fundamentais de desig
 O desenvolvimento do projeto seguiu rigorosamente as seguintes etapas metodológicas:
 
 ### 1. Guia de Estilo (Design System Inicial)
-Definição e estruturação de variáveis globais de estilo de cores (baseadas na identidade Dark Mode oficial do Spotify) e tipografia para garantir consistência visual em todo o projeto.<br>
+Definição e estruturação de variáveis globais de estilo de cores (baseadas na identidade Dark Mode oficial do Spotify) e tipografia para garantir consistência visual em todo o projeto.<br><br>
 <img width="1366" height="768" alt="guia-de-estilo" src="https://github.com/user-attachments/assets/e1add949-064c-43c1-9cbc-e4fbc6a68299" />
 <br><br>
 
 ### 2. Wireframe (Esqueleto da Interface)
-Planejamento estrutural das seções da página utilizando grades de layout (Grid de 12 colunas) e hierarquia de informação antes da aplicação dos elementos visuais definitivos.<br>
+Planejamento estrutural das seções da página utilizando grades de layout (Grid de 12 colunas) e hierarquia de informação antes da aplicação dos elementos visuais definitivos.<br><br>
 
 <img width="1366" height="768" alt="wireframe2" src="https://github.com/user-attachments/assets/b0d616a9-c54f-4f3f-b553-b95e5ad226c1" />
-<br>
+<br><br>
 <img width="1366" height="768" alt="wireframe1" src="https://github.com/user-attachments/assets/2e5ecf79-3aca-412f-8ec3-0ca025e8b941" />
 <br><br>
 
@@ -31,7 +31,7 @@ Planejamento estrutural das seções da página utilizando grades de layout (Gri
 Utilização intensiva da ferramenta de Auto Layout do Figma para simular o comportamento de caixas flexíveis, facilitando a futura transição para o código front-end (Flexbox no CSS).
 
 ### 4. Design de Alta Fidelidade (UI Final)
-Aplicação de imagens em alta definição, ícones vetoriais modernos e cores de contraste para gerar uma experiência de usuário imersiva, limpa e extremamente profissional.<br>
+Aplicação de imagens em alta definição, ícones vetoriais modernos e cores de contraste para gerar uma experiência de usuário imersiva, limpa e extremamente profissional.<br><br>
 
 <img width="1366" height="768" alt="projeto-finalizado1" src="https://github.com/user-attachments/assets/eaa937c5-b346-4c96-8ef6-db6e94c62120" /><br><br>
 
